@@ -8,8 +8,9 @@
 This file contains the members who contribute to the
 Open Source Classroom project.
 
-1. Nguyễn Phước Nguyên Thục - 102230270
 
+1. Nguyễn Phước Nguyên Thục - 102230270
+2. Huỳnh Thị Xuân Hà
 ## Contribution Guidelines
 
 All contributors should:
